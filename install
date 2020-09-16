@@ -139,7 +139,7 @@ function install {
     # RUN
     showlogo
     echo -e "                   ${y}Lockdoor Installed Succesfully !${endc}
-                ${y}Type ${g}lockdoor${endc}${y} in ${r} Terminl${endc}${y} to use it${endc}"
+                ${y}Type ${g}lockdoor${endc}${y} in ${r} Terminal${endc}${y} to use it${endc}"
 }
 
 #main
