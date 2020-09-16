@@ -135,7 +135,6 @@ function install {
     grep -l Sofiane /usr/local/bin/* | xargs rm
     echo "Location:"$installdir > $HOME"/.config/lockdoor/lockdoor.conf"
     rsync -a ToolsResources/* $installdir
-    pip3 install lockdoor
     clear
     # RUN
     showlogo
