@@ -189,7 +189,7 @@ easily.
 # Demos 💻 :
 
 | ![](https://sofianehamlaoui.github.io/junk/lockdoor/gifs/kali.gif) | ![](https://sofianehamlaoui.github.io/junk/lockdoor/gifs/ubuntu.gif) | ![](https://sofianehamlaoui.github.io/junk/lockdoor/gifs/archlinux.gif) | ![](https://sofianehamlaoui.github.io/junk/lockdoor/gifs/fedora.gif) | ![](https://sofianehamlaoui.github.io/junk/lockdoor/gifs/opensuse.gif) | ![](https://sofianehamlaoui.github.io/junk/lockdoor/gifs/windows.gif) |
-|--------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|
+|-|-|-|-|-|-|
 
 # Installation 🛠️ :
 
